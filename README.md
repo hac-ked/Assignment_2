@@ -2,6 +2,8 @@
 
 **Flatty** is a clean and modern single-page responsive landing page built using only **HTML and CSS**. This template includes multiple sections: Home, Features, App Overview, Team Members, and Contact Us. No JavaScript or frameworks used – pure frontend simplicity.
 
+## LINK:- https://hac-ked.github.io/Assignment_2/
+
 ---
 
 ## 📁 Project Structure
